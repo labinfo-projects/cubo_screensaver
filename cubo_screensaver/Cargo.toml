@@ -1,0 +1,8 @@
+[package]
+name = "cubo_screensaver"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.36"
+
